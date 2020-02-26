@@ -32,6 +32,3 @@ class Artist
   end
 end
 
-a = Artist.new
-a.add_song(Song.new())
-a.find_by_name("hi")
